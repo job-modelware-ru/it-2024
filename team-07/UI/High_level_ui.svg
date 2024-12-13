@@ -168,7 +168,7 @@
       ><path d="M0 0 L0 680 L110 680 L110 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath55"
-      ><path d="M0 0 L0 70 L670 70 L670 0 Z"
+      ><path d="M0 0 L0 100 L670 100 L670 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath56"
       ><path d="M0 0 L0 250 L650 250 L650 0 Z"
@@ -281,12 +281,6 @@
       /><text x="33" font-size="20px" y="27.7578" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >19</text
     ></g
-    ><g font-family="sans-serif" transform="translate(1170,350)"
-    ><text x="5" xml:space="preserve" y="16.125" clip-path="url(#clipPath4)" stroke="none"
-      >Возврат к</text
-      ><text x="5" xml:space="preserve" y="30.25" clip-path="url(#clipPath4)" stroke="none"
-      >программам</text
-    ></g
     ><g font-family="sans-serif" transform="translate(1170,250)"
     ><text x="5" xml:space="preserve" y="16.125" clip-path="url(#clipPath4)" stroke="none"
       >Главная</text
@@ -303,15 +297,15 @@
     ><text x="5" xml:space="preserve" y="16.125" clip-path="url(#clipPath6)" stroke="none"
       >Авторизация</text
     ></g
-    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(1160,430)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(1160,400)" stroke-opacity="0" stroke="rgb(255,255,255)"
     ><circle r="9.25" clip-path="url(#clipPath7)" cx="9.75" cy="9.75" stroke="none"
     /></g
-    ><g transform="translate(1160,430)"
+    ><g transform="translate(1160,400)"
     ><circle fill="none" r="9.25" clip-path="url(#clipPath7)" cx="9.75" cy="9.75"
       /><path fill="none" d="M2.9191 3.6667 L17.0809 16.3333" clip-path="url(#clipPath7)"
       /><path fill="none" d="M2.9191 16.3333 L17.0809 3.6667" clip-path="url(#clipPath7)"
     /></g
-    ><g font-family="sans-serif" transform="translate(1170,400)"
+    ><g font-family="sans-serif" transform="translate(1170,370)"
     ><text x="5" xml:space="preserve" y="16.125" clip-path="url(#clipPath8)" stroke="none"
       >Личный кабинет</text
       ><text x="5" xml:space="preserve" y="30.25" clip-path="url(#clipPath8)" stroke="none"
@@ -827,11 +821,6 @@
       ><text x="14" xml:space="preserve" y="59.125" clip-path="url(#clipPath28)" font-family="sans-serif" stroke="none"
       >экскурсию»</text
     ></g
-    ><g transform="translate(1160,380)"
-    ><path fill="none" d="M� � L10.5 10.5" clip-path="url(#clipPath29)"
-      /><circle fill="white" r="10" clip-path="url(#clipPath29)" cx="10.5" cy="10.5" stroke="none"
-      /><circle fill="none" r="10" clip-path="url(#clipPath29)" cx="10.5" cy="10.5"
-    /></g
     ><g transform="translate(780,390)"
     ><path fill="none" d="M� � L10.5 10.5" clip-path="url(#clipPath29)"
       /><circle fill="white" r="10" clip-path="url(#clipPath29)" cx="10.5" cy="10.5" stroke="none"
@@ -1031,12 +1020,12 @@
       /><path fill="none" d="M90.5 660.5 L11.5 660.5" clip-path="url(#clipPath54)"
       /><path fill="none" d="M22.2583 654 L11 660.5 L22.2583 667" clip-path="url(#clipPath54)"
     /></g
-    ><g transform="translate(1170,420)"
+    ><g transform="translate(1170,390)"
     ><path fill="none" d="M10.5 20.5 L500.5 20.5" clip-path="url(#clipPath55)"
-      /><path fill="none" d="M500.5 20.5 L500.5 50.5" clip-path="url(#clipPath55)"
-      /><path fill="none" d="M500.5 50.5 L649.5 50.5" clip-path="url(#clipPath55)"
-      /><path fill="none" d="M638.7417 57 L650 50.5 L638.7417 44" clip-path="url(#clipPath55)"
-      /><text x="270.0146" xml:space="preserve" y="16" clip-path="url(#clipPath55)" font-family="sans-serif" stroke="none"
+      /><path fill="none" d="M500.5 20.5 L500.5 80.5" clip-path="url(#clipPath55)"
+      /><path fill="none" d="M500.5 80.5 L649.5 80.5" clip-path="url(#clipPath55)"
+      /><path fill="none" d="M638.7417 87 L650 80.5 L638.7417 74" clip-path="url(#clipPath55)"
+      /><text x="285.0146" xml:space="preserve" y="16" clip-path="url(#clipPath55)" font-family="sans-serif" stroke="none"
       >Нажали «личный кабинет»</text
     ></g
     ><g transform="translate(660,100)"
